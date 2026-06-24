@@ -18,7 +18,8 @@ from flask import Flask, request
 app = Flask(__name__)
 
 # CWE-798: Hardcoded credentials
-DB_PASSWORD = "supersecret123"
+superSecretSecret = "Super secret secret"
+semiSecretSecret = "Semi secret secret"
 API_KEY = "AKIAIOSFODNN7EXAMPLE"
 SECRET_TOKEN = "hardcoded_jwt_secret_key"
 
