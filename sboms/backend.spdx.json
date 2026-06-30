@@ -1,0 +1,26 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "name": "demo-backend",
+  "documentNamespace": "https://example.com/spdx/demo-backend",
+  "creationInfo": {
+    "created": "2026-06-30T12:00:00Z",
+    "creators": [
+      "Tool: Fake SBOM Generator"
+    ]
+  },
+  "packages": [
+    {
+      "name": "express",
+      "SPDXID": "SPDXRef-express",
+      "versionInfo": "4.18.2",
+      "downloadLocation": "NOASSERTION"
+    },
+    {
+      "name": "lodash",
+      "SPDXID": "SPDXRef-lodash",
+      "versionInfo": "4.17.21",
+      "downloadLocation": "NOASSERTION"
+    }
+  ]
+}
