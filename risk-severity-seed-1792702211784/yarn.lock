@@ -1,6 +1,0 @@
-# yarn lockfile v1
-
-lodash@4.17.20:
-  version "4.17.20"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#5f31f11d04510e5516d071c78b57ff1b9f4c9f4b"
-  integrity sha512-PlhdFciWgN8hi9T1yYCTfnpXkHlmzAJPq3FJ0kGCyP3E7g1jQ1lNYHzRgKCJdnPzPzdaTywuDUov/8AYcZ3Kbg==
